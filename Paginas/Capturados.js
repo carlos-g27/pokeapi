@@ -1,0 +1,3 @@
+function Capturados() {
+    alert("Capturados")
+}
